@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+header{
+    background-color: #EFE9E2;
+    width: 1920px;
+    height: 956px;
+    padding: 10px 69px;
+}
+.menu ul {
+    display: flex;
+    gap: 10px;
+}
+.menu ul li a {
+    color: #24211E;
+    opacity: 0.25;
+}
+/* .menu ul li a img {
+    gap: 40px;
+} */
+
+.mosto {
+    font-weight: bold;
+}
